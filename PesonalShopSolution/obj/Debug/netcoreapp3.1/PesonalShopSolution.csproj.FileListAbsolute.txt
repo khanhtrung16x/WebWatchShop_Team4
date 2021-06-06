@@ -1,0 +1,1000 @@
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\appsettings.json
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\PesonalShopSolution.StaticWebAssets.xml
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\PesonalShopSolution.exe
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\PesonalShopSolution.deps.json
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\PesonalShopSolution.runtimeconfig.json
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\PesonalShopSolution.runtimeconfig.dev.json
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\PesonalShopSolution.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\PesonalShopSolution.pdb
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Antiforgery.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Core.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Authorization.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Forms.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Server.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Web.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.CookiePolicy.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cors.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HostFiltering.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Extensions.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Features.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpOverrides.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Identity.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.Routing.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Metadata.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Core.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCompression.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Rewrite.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IIS.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Session.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Common.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Core.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.StaticFiles.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebSockets.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebUtilities.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.CSharp.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Ini.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Json.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Xml.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Composite.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Physical.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Http.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.Abstractions.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Configuration.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Console.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Debug.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventLog.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventSource.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.TraceSource.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.ObjectPool.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.WebEncoders.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.JSInterop.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.Net.Http.Headers.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.Core.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Primitives.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Registry.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\mscorlib.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\netstandard.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.AppContext.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Buffers.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Collections.Concurrent.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Collections.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Collections.NonGeneric.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Collections.Specialized.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Annotations.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.DataAnnotations.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.EventBasedAsync.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Primitives.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.TypeConverter.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Configuration.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Console.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Core.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Data.Common.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Data.DataSetExtensions.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Data.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Contracts.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Debug.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.EventLog.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.FileVersionInfo.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Process.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.StackTrace.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TextWriterTraceListener.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tools.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TraceSource.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tracing.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Drawing.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Drawing.Primitives.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Dynamic.Runtime.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Globalization.Calendars.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Globalization.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Globalization.Extensions.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.Brotli.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.FileSystem.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.ZipFile.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.IO.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.DriveInfo.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Primitives.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Watcher.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.IO.IsolatedStorage.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.IO.MemoryMappedFiles.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.IO.Pipelines.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.IO.Pipes.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.IO.UnmanagedMemoryStream.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Linq.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Linq.Expressions.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Linq.Parallel.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Linq.Queryable.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Memory.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Net.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Net.Http.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Net.HttpListener.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Net.Mail.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Net.NameResolution.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Net.NetworkInformation.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Net.Ping.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Net.Primitives.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Net.Requests.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Net.Security.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Net.ServicePoint.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Net.Sockets.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Net.WebClient.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Net.WebHeaderCollection.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Net.WebProxy.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.Client.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Numerics.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Numerics.Vectors.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.ObjectModel.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Reflection.DispatchProxy.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Reflection.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.ILGeneration.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.Lightweight.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Reflection.Extensions.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Reflection.Metadata.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Reflection.Primitives.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Reflection.TypeExtensions.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Resources.Reader.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Resources.ResourceManager.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Resources.Writer.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.Unsafe.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.VisualC.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Runtime.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Runtime.Extensions.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Runtime.Handles.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.WindowsRuntime.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Runtime.Intrinsics.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Runtime.Loader.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Runtime.Numerics.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Formatters.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Json.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Primitives.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Xml.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Security.AccessControl.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Security.Claims.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Algorithms.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Cng.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Csp.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Encoding.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Primitives.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.X509Certificates.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Xml.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Security.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Security.Permissions.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.Windows.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Security.SecureString.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.ServiceModel.Web.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.ServiceProcess.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.CodePages.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.Extensions.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Text.Encodings.Web.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Text.RegularExpressions.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Threading.Channels.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Threading.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Threading.Overlapped.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Dataflow.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Extensions.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Parallel.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Threading.Thread.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Threading.ThreadPool.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Threading.Timer.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Transactions.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Transactions.Local.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.ValueTuple.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Web.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Web.HttpUtility.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Windows.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Windows.Extensions.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Xml.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Xml.Linq.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Xml.ReaderWriter.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Xml.Serialization.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Xml.XDocument.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlDocument.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlSerializer.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.XDocument.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\WindowsBase.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\PesonalShopSolution.Views.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\PesonalShopSolution.Views.pdb
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\obj\Debug\netcoreapp3.1\PesonalShopSolution.AssemblyInfoInputs.cache
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\obj\Debug\netcoreapp3.1\PesonalShopSolution.AssemblyInfo.cs
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\obj\Debug\netcoreapp3.1\PesonalShopSolution.csproj.CoreCompileInputs.cache
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\obj\Debug\netcoreapp3.1\PesonalShopSolution.MvcApplicationPartsAssemblyInfo.cs
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\obj\Debug\netcoreapp3.1\PesonalShopSolution.MvcApplicationPartsAssemblyInfo.cache
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\obj\Debug\netcoreapp3.1\PesonalShopSolution.RazorAssemblyInfo.cache
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\obj\Debug\netcoreapp3.1\PesonalShopSolution.RazorAssemblyInfo.cs
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\obj\Debug\netcoreapp3.1\staticwebassets\PesonalShopSolution.StaticWebAssets.Manifest.cache
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\obj\Debug\netcoreapp3.1\staticwebassets\PesonalShopSolution.StaticWebAssets.xml
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\obj\Debug\netcoreapp3.1\scopedcss\bundle\PesonalShopSolution.styles.css
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\obj\Debug\netcoreapp3.1\PesonalShopSolution.TagHelpers.input.cache
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\obj\Debug\netcoreapp3.1\PesonalShopSolution.TagHelpers.output.cache
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\obj\Debug\netcoreapp3.1\PesonalShopSolution.RazorCoreGenerate.cache
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\Notification.cshtml.g.cs
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\UserProfile.cshtml.g.cs
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_FooterPartial.cshtml.g.cs
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_HeadPartial.cshtml.g.cs
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_NavPartial.cshtml.g.cs
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_ScriptPartial.cshtml.g.cs
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_SidebarPartial.cshtml.g.cs
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Views\Home\Brands.cshtml.g.cs
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Views\Home\Checkout.cshtml.g.cs
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Views\Home\Erorr.cshtml.g.cs
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Views\Home\Men.cshtml.g.cs
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Views\Home\Register.cshtml.g.cs
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Views\Home\Single.cshtml.g.cs
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Banner2Partial.cshtml.g.cs
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_BannerPartial.cshtml.g.cs
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_FooterPartial.cshtml.g.cs
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_HeadPartial.cshtml.g.cs
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout2.cshtml.g.cs
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\obj\Debug\netcoreapp3.1\PesonalShopSolution.RazorTargetAssemblyInfo.cache
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\obj\Debug\netcoreapp3.1\PesonalShopSolution.RazorTargetAssemblyInfo.cs
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\obj\Debug\netcoreapp3.1\PesonalShopSolution.Views.pdb
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\obj\Debug\netcoreapp3.1\PesonalShopSolution.csproj.CopyComplete
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\obj\Debug\netcoreapp3.1\PesonalShopSolution.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\obj\Debug\netcoreapp3.1\PesonalShopSolution.pdb
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\obj\Debug\netcoreapp3.1\PesonalShopSolution.genruntimeconfig.cache
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\obj\Debug\netcoreapp3.1\PesonalShopSolution.csprojAssemblyReference.cache
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Brands\Create.cshtml.g.cs
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Brands\Delete.cshtml.g.cs
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Brands\Edit.cshtml.g.cs
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Brands\Index.cshtml.g.cs
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Products\Create.cshtml.g.cs
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Products\Delete.cshtml.g.cs
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Products\Details.cshtml.g.cs
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Products\Edit.cshtml.g.cs
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Products\Index.cshtml.g.cs
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\AspNetRoles\Create.cshtml.g.cs
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\AspNetRoles\Delete.cshtml.g.cs
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\AspNetRoles\Details.cshtml.g.cs
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\AspNetRoles\Edit.cshtml.g.cs
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\AspNetRoles\Index.cshtml.g.cs
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\AspNetUserRoles\Create.cshtml.g.cs
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\AspNetUserRoles\Delete.cshtml.g.cs
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_LoginPartial.cshtml.g.cs
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\bin\Debug\netcoreapp3.1\BCrypt.Net-Next.dll
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Specifications\Create.cshtml.g.cs
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Specifications\Delete.cshtml.g.cs
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Specifications\Details.cshtml.g.cs
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Specifications\Edit.cshtml.g.cs
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Specifications\Index.cshtml.g.cs
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\appsettings.json
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.local.json
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\PesonalShopSolution.StaticWebAssets.xml
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\PesonalShopSolution.exe
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\PesonalShopSolution.deps.json
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\PesonalShopSolution.runtimeconfig.json
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\PesonalShopSolution.runtimeconfig.dev.json
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\PesonalShopSolution.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\PesonalShopSolution.pdb
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cors.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Identity.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Metadata.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Session.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.CSharp.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Json.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Physical.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Http.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Console.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.ObjectPool.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.WebEncoders.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.JSInterop.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.Net.Http.Headers.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.Core.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Primitives.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Registry.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\mscorlib.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\netstandard.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.AppContext.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Buffers.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Collections.Concurrent.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Collections.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Collections.NonGeneric.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Collections.Specialized.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Annotations.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.DataAnnotations.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.EventBasedAsync.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Primitives.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.TypeConverter.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Configuration.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Console.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Core.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Data.Common.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Data.DataSetExtensions.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Data.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Contracts.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Debug.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.EventLog.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.FileVersionInfo.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Process.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.StackTrace.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tools.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TraceSource.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tracing.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Drawing.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Drawing.Primitives.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Dynamic.Runtime.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Globalization.Calendars.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Globalization.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Globalization.Extensions.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.Brotli.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.FileSystem.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.ZipFile.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.IO.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.DriveInfo.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Primitives.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Watcher.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.IO.IsolatedStorage.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.IO.MemoryMappedFiles.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.IO.Pipelines.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.IO.Pipes.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.IO.UnmanagedMemoryStream.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Linq.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Linq.Expressions.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Linq.Parallel.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Linq.Queryable.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Memory.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Net.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Net.Http.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Net.HttpListener.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Net.Mail.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Net.NameResolution.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Net.NetworkInformation.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Net.Ping.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Net.Primitives.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Net.Requests.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Net.Security.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Net.ServicePoint.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Net.Sockets.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Net.WebClient.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Net.WebHeaderCollection.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Net.WebProxy.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.Client.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Numerics.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Numerics.Vectors.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.ObjectModel.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Reflection.DispatchProxy.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Reflection.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.ILGeneration.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.Lightweight.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Reflection.Extensions.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Reflection.Metadata.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Reflection.Primitives.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Reflection.TypeExtensions.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Resources.Reader.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Resources.ResourceManager.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Resources.Writer.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.Unsafe.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Runtime.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Runtime.Extensions.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Runtime.Handles.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Runtime.Intrinsics.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Runtime.Loader.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Runtime.Numerics.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Formatters.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Json.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Primitives.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Xml.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Security.AccessControl.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Security.Claims.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Algorithms.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Cng.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Csp.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Encoding.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Primitives.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.X509Certificates.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Xml.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Security.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Security.Permissions.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.Windows.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Security.SecureString.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.ServiceModel.Web.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.ServiceProcess.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.CodePages.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.Extensions.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Text.Encodings.Web.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Text.RegularExpressions.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Threading.Channels.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Threading.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Threading.Overlapped.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Dataflow.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Extensions.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Parallel.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Threading.Thread.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Threading.ThreadPool.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Threading.Timer.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Transactions.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Transactions.Local.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.ValueTuple.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Web.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Web.HttpUtility.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Windows.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Windows.Extensions.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Xml.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Xml.Linq.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Xml.ReaderWriter.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Xml.Serialization.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Xml.XDocument.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlDocument.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlSerializer.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.XDocument.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\refs\WindowsBase.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\PesonalShopSolution.Views.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\PesonalShopSolution.Views.pdb
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\BCrypt.Net-Next.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\obj\Debug\netcoreapp3.1\PesonalShopSolution.csprojAssemblyReference.cache
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\obj\Debug\netcoreapp3.1\PesonalShopSolution.AssemblyInfoInputs.cache
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\obj\Debug\netcoreapp3.1\PesonalShopSolution.AssemblyInfo.cs
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\obj\Debug\netcoreapp3.1\PesonalShopSolution.csproj.CoreCompileInputs.cache
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\obj\Debug\netcoreapp3.1\PesonalShopSolution.MvcApplicationPartsAssemblyInfo.cs
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\obj\Debug\netcoreapp3.1\PesonalShopSolution.MvcApplicationPartsAssemblyInfo.cache
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\obj\Debug\netcoreapp3.1\PesonalShopSolution.RazorAssemblyInfo.cache
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\obj\Debug\netcoreapp3.1\PesonalShopSolution.RazorAssemblyInfo.cs
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\obj\Debug\netcoreapp3.1\PesonalShopSolution.TagHelpers.input.cache
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\obj\Debug\netcoreapp3.1\PesonalShopSolution.TagHelpers.output.cache
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\obj\Debug\netcoreapp3.1\PesonalShopSolution.RazorCoreGenerate.cache
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\AspNetRoles\Create.cshtml.g.cs
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\AspNetRoles\Delete.cshtml.g.cs
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\AspNetRoles\Details.cshtml.g.cs
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\AspNetRoles\Edit.cshtml.g.cs
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\AspNetRoles\Index.cshtml.g.cs
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\AspNetUserRoles\Create.cshtml.g.cs
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\AspNetUserRoles\Delete.cshtml.g.cs
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Brands\Create.cshtml.g.cs
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Brands\Delete.cshtml.g.cs
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Brands\Edit.cshtml.g.cs
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Brands\Index.cshtml.g.cs
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\Notification.cshtml.g.cs
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\UserProfile.cshtml.g.cs
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Products\Create.cshtml.g.cs
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Products\Delete.cshtml.g.cs
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Products\Details.cshtml.g.cs
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Products\Edit.cshtml.g.cs
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Products\Index.cshtml.g.cs
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_FooterPartial.cshtml.g.cs
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_HeadPartial.cshtml.g.cs
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_NavPartial.cshtml.g.cs
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_ScriptPartial.cshtml.g.cs
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_SidebarPartial.cshtml.g.cs
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Specifications\Create.cshtml.g.cs
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Specifications\Delete.cshtml.g.cs
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Specifications\Details.cshtml.g.cs
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Specifications\Edit.cshtml.g.cs
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Specifications\Index.cshtml.g.cs
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Views\Home\Brands.cshtml.g.cs
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Views\Home\Checkout.cshtml.g.cs
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Views\Home\Erorr.cshtml.g.cs
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Views\Home\Men.cshtml.g.cs
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Views\Home\Register.cshtml.g.cs
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Views\Home\Single.cshtml.g.cs
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Banner2Partial.cshtml.g.cs
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_BannerPartial.cshtml.g.cs
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_FooterPartial.cshtml.g.cs
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_HeadPartial.cshtml.g.cs
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout2.cshtml.g.cs
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\obj\Debug\netcoreapp3.1\PesonalShopSolution.RazorTargetAssemblyInfo.cache
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\obj\Debug\netcoreapp3.1\PesonalShopSolution.RazorTargetAssemblyInfo.cs
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\obj\Debug\netcoreapp3.1\PesonalShopSolution.Views.pdb
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\obj\Debug\netcoreapp3.1\PesonalShopSolution.csproj.CopyComplete
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\obj\Debug\netcoreapp3.1\staticwebassets\PesonalShopSolution.StaticWebAssets.Manifest.cache
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\obj\Debug\netcoreapp3.1\staticwebassets\PesonalShopSolution.StaticWebAssets.xml
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\obj\Debug\netcoreapp3.1\PesonalShopSolution.dll
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\obj\Debug\netcoreapp3.1\PesonalShopSolution.pdb
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\obj\Debug\netcoreapp3.1\PesonalShopSolution.genruntimeconfig.cache
