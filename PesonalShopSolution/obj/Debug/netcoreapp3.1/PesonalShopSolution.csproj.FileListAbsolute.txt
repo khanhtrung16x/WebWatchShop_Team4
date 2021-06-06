@@ -497,6 +497,16 @@ F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\obj\Debug\netco
 F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Specifications\Details.cshtml.g.cs
 F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Specifications\Edit.cshtml.g.cs
 F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Specifications\Index.cshtml.g.cs
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Carts\Create.cshtml.g.cs
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Carts\Delete.cshtml.g.cs
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Carts\Details.cshtml.g.cs
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Carts\Edit.cshtml.g.cs
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Carts\Index.cshtml.g.cs
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Orders\Create.cshtml.g.cs
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Orders\Delete.cshtml.g.cs
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Orders\Details.cshtml.g.cs
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Orders\Edit.cshtml.g.cs
+F:\ASP.NET-WatchShopMVC\ASP.NET-WatchShopMVC\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Orders\Index.cshtml.g.cs
 D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\appsettings.Development.json
 D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\appsettings.json
 D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
@@ -942,9 +952,19 @@ D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\obj
 D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Brands\Delete.cshtml.g.cs
 D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Brands\Edit.cshtml.g.cs
 D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Brands\Index.cshtml.g.cs
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Carts\Create.cshtml.g.cs
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Carts\Delete.cshtml.g.cs
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Carts\Details.cshtml.g.cs
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Carts\Edit.cshtml.g.cs
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Carts\Index.cshtml.g.cs
 D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
 D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\Notification.cshtml.g.cs
 D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\UserProfile.cshtml.g.cs
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Orders\Create.cshtml.g.cs
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Orders\Delete.cshtml.g.cs
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Orders\Details.cshtml.g.cs
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Orders\Edit.cshtml.g.cs
+D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Orders\Index.cshtml.g.cs
 D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Products\Create.cshtml.g.cs
 D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Products\Delete.cshtml.g.cs
 D:\HK202\Project 202\Computer science\C#\WatchShop_Team4\PesonalShopSolution\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Products\Details.cshtml.g.cs
