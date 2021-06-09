@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
@@ -11,6 +12,7 @@ using PesonalShopSolution.Areas.Admin.Models;
 namespace PesonalShopSolution.Areas.Admin.Controllers
 {
     [Area("Admin")]
+    [Authorize(Roles = "Admin")]
     public class OrdersController : Controller
     {
         private readonly ApplicationDbContext _context;
@@ -58,7 +60,7 @@ namespace PesonalShopSolution.Areas.Admin.Controllers
         // more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,OrderDate,IdUser,TotalMoney")] Order order)
+        public async Task<IActionResult> Create([Bind("Id,OrderDate,IdUser,TotalMoney,Phone,Address,Name")] Order order)
         {
             if (ModelState.IsValid)
             {
@@ -92,7 +94,7 @@ namespace PesonalShopSolution.Areas.Admin.Controllers
         // more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("Id,OrderDate,IdUser,TotalMoney")] Order order)
+        public async Task<IActionResult> Edit(int id, [Bind("Id,OrderDate,IdUser,TotalMoney,Phone,Address,Name")] Order order)
         {
             if (id != order.Id)
             {
