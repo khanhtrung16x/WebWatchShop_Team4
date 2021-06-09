@@ -63,6 +63,10 @@ namespace PesonalShopSolution.Controllers
             return View();
         }
 
+        public IActionResult Notification()
+        {
+            return View();
+        }
 
         [HttpGet]
         [AllowAnonymous]
@@ -252,13 +256,14 @@ namespace PesonalShopSolution.Controllers
             return View();
         }
 
-        public async Task<IActionResult> CreateCart([Bind("Id,IdProduct,IdUser,Amount")] Cart cart )
+        public async Task<IActionResult> CreateCart([Bind("Id,IdProduct,IdUser,Amount")] CreateCart createCart, Cart cart )
         {
             var userId = User.FindFirstValue(ClaimTypes.NameIdentifier);
             var child = _context.Cart
-                      .Where(p => p.IdProduct == cart.IdProduct) 
-                      .Where(p => p.IdUser == cart.IdUser)
+                      .Where(p => p.IdProduct == createCart.IdProduct) 
+                      .Where(p => p.IdUser == createCart.IdUser)
                       .FirstOrDefault();
+
             if (userId == null)
             {
                 return RedirectToAction(nameof(Login));
@@ -272,13 +277,21 @@ namespace PesonalShopSolution.Controllers
                     IdUser = child.IdUser,
                     Amount = child.Amount+1
                 };
-                _context.Update(cart1);
-                await _context.SaveChangesAsync();
+
+                EditCart(child.Id, cart1);
+
+
                 return RedirectToAction(nameof(Checkout));
             }
             else
             {
-                _context.Add(cart);
+                var cart2 = new Cart()
+                {
+                    IdProduct = createCart.IdProduct,
+                    IdUser = createCart.IdUser,
+                    Amount = createCart.Amount
+                };
+                _context.Cart.Add(cart2);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Checkout));
             }
@@ -286,7 +299,47 @@ namespace PesonalShopSolution.Controllers
         }
 
 
-        public async Task<IActionResult> CreateOrder([Bind("Id,OrderDate,IdUser,TotalMoney,IdOrder,Amount,DiscountCode,IdProduct")] CreateOrder createOrder, Order order ,OrderDetails orderDetails)
+        public async Task<IActionResult> EditCart(int id, [Bind("Id,IdProduct,IdUser,Amount")] Cart cart)
+        {
+            if (id != cart.Id)
+            {
+                return NotFound();
+            }
+
+            if (ModelState.IsValid)
+            {
+                try
+                {
+                    var cart1 = new Cart()
+                    {
+                        Id = cart.Id,
+                        IdProduct = cart.IdProduct,
+                        Amount = cart.Amount,
+                        IdUser =cart.IdUser
+                    };
+                    
+                    _context.Update(cart1);
+                    await _context.SaveChangesAsync();
+                }
+                catch (DbUpdateConcurrencyException)
+                {
+                    if (!CartExists(cart.Id))
+                    {
+                        return NotFound();
+                    }
+                    else
+                    {
+                        throw;
+                    }
+                }
+                return RedirectToAction(nameof(Checkout));
+            }
+            return View(cart);
+        }
+
+
+
+        public async Task<IActionResult> CreateOrder([Bind("Id,OrderDate,IdUser,TotalMoney,IdOrder,Amount,DiscountCode,IdProduct,Phone,Address,Name")] CreateOrder createOrder, Order order ,OrderDetails orderDetails)
         {
             if (ModelState.IsValid)
             {
@@ -294,20 +347,29 @@ namespace PesonalShopSolution.Controllers
                 var aspNetUsers = await _context.AspNetUsers
                             .FirstOrDefaultAsync(m => m.Id.ToString() == id);
 
+
                 order = new Order
                 {
                     IdUser = aspNetUsers.Id,
                     OrderDate = DateTime.Now,
                     TotalMoney = order.TotalMoney,
+                    Address = order.Address,
+                    Phone = order.Phone,
+                    Name = order.Name,
                 };
 
+                
+
+
                 _context.Add(order);
+               
                 await _context.SaveChangesAsync();
 
                 var child = _context.Order
                        .Where(p => p.IdUser.ToString() == id)
                        .Where(p => p.TotalMoney == order.TotalMoney)
                        .FirstOrDefault();
+
 
                 orderDetails = new OrderDetails
                 {
@@ -320,9 +382,11 @@ namespace PesonalShopSolution.Controllers
                 
                 _context.Add(orderDetails);
                 await _context.SaveChangesAsync();
-
-                DeleteProductCart(order.IdUser);
-                return RedirectToAction(nameof(Checkout));
+                await DeleteProductCart(order.IdUser);
+                return RedirectToAction(nameof(Notification));
+            }else if(!ModelState.IsValid)
+            {
+                return RedirectToAction("Checkout", "Home");
             }
             return View(order);
         }
@@ -333,21 +397,23 @@ namespace PesonalShopSolution.Controllers
             var cart = await _context.Cart.FindAsync(id);
             _context.Cart.Remove(cart);
             await _context.SaveChangesAsync();
-            return RedirectToAction(nameof(Index));
+            return RedirectToAction(nameof(Checkout));
         }
 
 
         public async Task<IActionResult> DeleteProductCart(int id)
-        { 
+        {
 
             var child = _context.Cart
-                     .Where(m => m.IdUser == id)
-                     .FirstOrDefault();
-
-            var cart = await _context.Cart.FindAsync(child.Id);
-            _context.Cart.Remove(cart);
+                     .Where(m => m.IdUser == id);
+                     
+            foreach (var item in child)
+            {
+                var cart = await _context.Cart.FindAsync(item.Id);
+                _context.Remove(cart);
+            }
             await _context.SaveChangesAsync();
-            return RedirectToAction(nameof(Checkout));
+            return RedirectToAction(nameof(Notification));
         }
        
 

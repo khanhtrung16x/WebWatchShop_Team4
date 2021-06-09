@@ -306,14 +306,23 @@ namespace PesonalShopSolution.Migrations
                         .HasColumnType("int")
                         .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
+                    b.Property<string>("Address")
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<int>("IdUser")
                         .HasColumnName("id_user")
                         .HasColumnType("int")
                         .HasMaxLength(128);
 
+                    b.Property<string>("Name")
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<DateTime?>("OrderDate")
                         .HasColumnName("Order_date")
                         .HasColumnType("datetime");
+
+                    b.Property<string>("Phone")
+                        .HasColumnType("nvarchar(max)");
 
                     b.Property<int>("TotalMoney")
                         .HasColumnType("int");

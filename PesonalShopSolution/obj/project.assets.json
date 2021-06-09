@@ -9304,11 +9304,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\HK202\\Project 202\\Computer science\\C#\\WatchShop_Team4\\PesonalShopSolution\\PesonalShopSolution.csproj",
+      "projectUniqueName": "C:\\Users\\Nguyen Van Khanh\\Downloads\\ASP.NET-WatchShopMVC\\PesonalShopSolution\\PesonalShopSolution.csproj",
       "projectName": "PesonalShopSolution",
-      "projectPath": "D:\\HK202\\Project 202\\Computer science\\C#\\WatchShop_Team4\\PesonalShopSolution\\PesonalShopSolution.csproj",
+      "projectPath": "C:\\Users\\Nguyen Van Khanh\\Downloads\\ASP.NET-WatchShopMVC\\PesonalShopSolution\\PesonalShopSolution.csproj",
       "packagesPath": "C:\\Users\\Nguyen Van Khanh\\.nuget\\packages\\",
-      "outputPath": "D:\\HK202\\Project 202\\Computer science\\C#\\WatchShop_Team4\\PesonalShopSolution\\obj\\",
+      "outputPath": "C:\\Users\\Nguyen Van Khanh\\Downloads\\ASP.NET-WatchShopMVC\\PesonalShopSolution\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Nguyen Van Khanh\\AppData\\Roaming\\NuGet\\NuGet.Config",
