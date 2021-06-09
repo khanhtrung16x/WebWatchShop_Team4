@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nguyen Van Khanh\\Downloads\\ASP.NET-WatchShopMVC\\PesonalShopSolution\\PesonalShopSolution.csproj": {}
+    "F:\\ASP.NET-WatchShopMVC\\ASP.NET-WatchShopMVC\\PesonalShopSolution\\PesonalShopSolution.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nguyen Van Khanh\\Downloads\\ASP.NET-WatchShopMVC\\PesonalShopSolution\\PesonalShopSolution.csproj": {
+    "F:\\ASP.NET-WatchShopMVC\\ASP.NET-WatchShopMVC\\PesonalShopSolution\\PesonalShopSolution.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nguyen Van Khanh\\Downloads\\ASP.NET-WatchShopMVC\\PesonalShopSolution\\PesonalShopSolution.csproj",
+        "projectUniqueName": "F:\\ASP.NET-WatchShopMVC\\ASP.NET-WatchShopMVC\\PesonalShopSolution\\PesonalShopSolution.csproj",
         "projectName": "PesonalShopSolution",
-        "projectPath": "C:\\Users\\Nguyen Van Khanh\\Downloads\\ASP.NET-WatchShopMVC\\PesonalShopSolution\\PesonalShopSolution.csproj",
-        "packagesPath": "C:\\Users\\Nguyen Van Khanh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nguyen Van Khanh\\Downloads\\ASP.NET-WatchShopMVC\\PesonalShopSolution\\obj\\",
+        "projectPath": "F:\\ASP.NET-WatchShopMVC\\ASP.NET-WatchShopMVC\\PesonalShopSolution\\PesonalShopSolution.csproj",
+        "packagesPath": "C:\\Users\\tu\\.nuget\\packages\\",
+        "outputPath": "F:\\ASP.NET-WatchShopMVC\\ASP.NET-WatchShopMVC\\PesonalShopSolution\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Nguyen Van Khanh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\tu\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,6 +26,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -37,6 +38,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "BCrypt.Net-Next": {
               "target": "Package",
@@ -103,7 +105,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

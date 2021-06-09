@@ -63,6 +63,23 @@ namespace PesonalShopSolution.Controllers
             return View();
         }
 
+
+        public async Task<IActionResult> Search(string searchString)
+        {
+            var Search = from m in _context.Product
+                         select m;
+
+            if (!String.IsNullOrEmpty(searchString))
+            {
+                Search = Search.Where(s => s.ProductName.Contains(searchString));
+            }
+
+            ViewBag.Search = Search.ToArray();
+
+            return View(Search);
+        }
+
+
         public IActionResult Notification()
         {
             return View();
